@@ -1,4 +1,8 @@
 # Data Preprocessing and Whitebox Model Training
 
-## Project Desciption: 
-Given a fictional corrupted dataset on who survived the Titanic, the aim of this project is to clean the dataset so that they only have relevant features. The data has been corrupted such that it'll have missing values, duplicate values, incorrect and incompatible types etc. 
+## Summary: 
+This project focuses on cleaning a fictional, corrupted version of the Titanic passenger dataset. The goal is to preprocess the data so that it contains only relevant and usable features for future analysis or modeling. The dataset has been intentionally corrupted and contains issues such as missing values, duplicate entries, incorrect data types, and incompatible formats.
+## Dataset:
+.csv dataset given above
+## How to use:
+Download/Clone the repo and run the .ipynb file
